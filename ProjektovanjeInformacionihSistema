@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T20:26:49.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.0.8" etag="kM2FO3UhKUmvx_c5hZuq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T21:28:32.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="wbkBdD9MZ2CBaPuVulce" version="22.0.8" type="github">
   <diagram name="Page-1" id="DAt-5oR4TNm6LtMOy_PM">
-    <mxGraphModel>
+    <mxGraphModel dx="1073" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-1" value="UPRAVLJANJE&amp;nbsp;&lt;br&gt;MALOM TRGOVINOM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="110" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.459;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LLbnlAc0LNpXplLP8sRw-4" target="LLbnlAc0LNpXplLP8sRw-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="370" as="sourcePoint" />
+            <mxPoint x="420" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LLbnlAc0LNpXplLP8sRw-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-4" value="VODJENJE PODATAKA O&amp;nbsp;&lt;br&gt;KOMITETIMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-5" value="MANIPULISANJE PODACIMA&lt;br&gt;O PROIZVODIMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-6" value="KADROVSKO&amp;nbsp;&lt;br&gt;ADMINISTRIRANJE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="400" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-8" value="REGISTROVANJE&amp;nbsp;&lt;br&gt;KOMITETA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="530" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-9" value="BRISANJE&amp;nbsp;&lt;br&gt;KOMITETA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-10" value="REGISTROVANJE&lt;br&gt;UPLATE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="613" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-11" value="REGISTROVANJE&amp;nbsp;&lt;br&gt;PROIZVODA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="753" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-12" value="BRISANJE&lt;br&gt;PROIZVODA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="793" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-13" value="SKLAPANJE&amp;nbsp;&lt;br&gt;UGOVORA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="840" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-14" value="SPARIVANJE PONUDE&lt;br&gt;I POTRAZNJE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="880" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-15" value="OBRADJIVANJE PRIJAVE&lt;br&gt;ZA POSAO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="560" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-16" value="REGISTROVANJE&amp;nbsp;&lt;br&gt;ZAPOSLENIH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLbnlAc0LNpXplLP8sRw-17" value="BRISANJE&amp;nbsp;&lt;br&gt;ZAPOSLENIH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
